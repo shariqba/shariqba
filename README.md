@@ -1,4 +1,4 @@
-## Hi there 👋
+My name is [M.shariq], and I am a [14]-year-old [web development] from [karachi]. I am currently studying/working at [the nation public school], pursuing my interests and goals with dedication and enthusiasm.
 
 <!--
 **shariqba/shariqba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
